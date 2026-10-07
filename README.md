@@ -48,6 +48,7 @@ This repository contains my solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0877-stone-game](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -69,4 +70,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
