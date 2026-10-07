@@ -19,10 +19,12 @@ This repository contains my solutions to LeetCode problems.
 | [0002-add-two-numbers](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +59,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
