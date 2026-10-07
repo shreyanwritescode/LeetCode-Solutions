@@ -17,6 +17,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Recursion
 |  |
 | ------- |
@@ -25,6 +26,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## String
 |  |
 | ------- |
