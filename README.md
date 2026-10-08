@@ -50,6 +50,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0877-stone-game](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -79,4 +80,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
