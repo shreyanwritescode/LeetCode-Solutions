@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode problems.
 | [0002-add-two-numbers](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0877-stone-game](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Linked List
@@ -37,6 +38,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +78,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 ## Bit Manipulation
 |  |
 | ------- |
