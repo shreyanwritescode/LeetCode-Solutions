@@ -21,6 +21,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -28,6 +29,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
