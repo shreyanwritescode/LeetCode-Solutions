@@ -47,6 +47,7 @@ This repository contains my solutions to LeetCode problems.
 | [0005-longest-palindromic-substring](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0065-valid-number](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0065-valid-number) |
 ## Dynamic Programming
 |  |
 | ------- |
