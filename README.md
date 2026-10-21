@@ -59,6 +59,7 @@ This repository contains my solutions to LeetCode problems.
 | [0001-two-sum](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0039-combination-sum](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0877-stone-game](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -102,4 +103,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0015-3sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
