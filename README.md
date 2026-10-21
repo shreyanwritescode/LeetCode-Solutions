@@ -66,6 +66,7 @@ This repository contains my solutions to LeetCode problems.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0877-stone-game](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Minimax
@@ -100,6 +101,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0089-gray-code) |
 ## Binary Search
 |  |
@@ -119,6 +121,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0039-combination-sum](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0089-gray-code) |
 ## Range Minimum/Maximum Query
 |  |
