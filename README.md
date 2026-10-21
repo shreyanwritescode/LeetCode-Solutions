@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems.
 | [0012-integer-to-roman](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0877-stone-game](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Linked List
 |  |
@@ -91,6 +92,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0089-gray-code) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,4 +109,5 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0089-gray-code](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
