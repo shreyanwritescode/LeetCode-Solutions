@@ -24,6 +24,7 @@ This repository contains my solutions to LeetCode problems.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0206-reverse-linked-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -114,6 +115,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -129,4 +131,16 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
