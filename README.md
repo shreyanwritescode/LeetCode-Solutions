@@ -54,6 +54,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0085-maximal-rectangle](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0877-stone-game](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Manacher
 |  |
@@ -71,6 +72,7 @@ This repository contains my solutions to LeetCode problems.
 | [0078-subsets](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0877-stone-game](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Minimax
