@@ -34,6 +34,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## String
 |  |
@@ -55,6 +56,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0001-two-sum](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0877-stone-game](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -94,4 +96,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
