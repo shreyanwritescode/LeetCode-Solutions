@@ -68,6 +68,7 @@ This repository contains my solutions to LeetCode problems.
 | [0040-combination-sum-ii](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0877-stone-game](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -103,6 +104,7 @@ This repository contains my solutions to LeetCode problems.
 | [0029-divide-two-integers](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
