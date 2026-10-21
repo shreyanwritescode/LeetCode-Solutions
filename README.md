@@ -53,6 +53,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0085-maximal-rectangle](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0877-stone-game](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Manacher
 |  |
@@ -69,6 +70,7 @@ This repository contains my solutions to LeetCode problems.
 | [0040-combination-sum-ii](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0877-stone-game](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Minimax
@@ -87,11 +89,13 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
@@ -143,4 +147,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
