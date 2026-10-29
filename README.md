@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems.
 | [0012-integer-to-roman](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0877-stone-game](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Linked List
@@ -121,6 +122,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,4 +159,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shreyanwritescode/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
